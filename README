@@ -1,1 +1,8 @@
-This plugin is a basic HTTP Server wrapper for Bukkit.
+BukkitHTTPD 
+=============
+
+This plugin allows the server to recieve requestes through HTTP for files stored within the server.
+
+From this plugin you are able to access all files on the server via a read-only methood, you have no access to modify the files once you are connected.
+
+The plugin also has the avalability to add a password prior to connection, stoping any un-authrised persons from accessing server files.
